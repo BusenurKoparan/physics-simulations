@@ -1,8 +1,8 @@
+2D Projectile Motion Simulator with Aerodynamic Drag
+
 ![Drag_motion](https://github.com/user-attachments/assets/f3fc0655-3495-44c3-91fa-07a65643b317)
 
 (GIF above is slightly cropped, I highly recommend running the code)
-
-2D Projectile Motion Simulator with Aerodynamic Drag
 
 Overview:
 This project simulates and visualizes the 2D projectile motion of an object, directly comparing a frictionless environment with a realistic environment affected by air resistance (aerodynamic drag).

@@ -1,4 +1,4 @@
-2D Projectile Motion Simulator with Aerodynamic Drag
+## 1. 2D Projectile Motion Simulator with Aerodynamic Drag
 
 ![Drag_motion](https://github.com/user-attachments/assets/f3fc0655-3495-44c3-91fa-07a65643b317)
 
@@ -12,3 +12,9 @@ Libraries Used:
 PythonSciPy (solve_ivp): Used for the numerical integration of the differential equations.
 NumPy: Used for array manipulations and linear space generation.
 Matplotlib: Used for data visualization and rendering the 2D animation of the trajectories.
+
+
+## 2. Chaotic Double Pendulum
+
+![gif_double_pendulum](https://github.com/user-attachments/assets/34cc1600-8c7b-4bd7-8dc1-f6695d6b7345)
+
